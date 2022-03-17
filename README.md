@@ -4,14 +4,14 @@
 
 ## Script
 
-`npm i`  - 모듈 설치 
+`npm i` - 모듈 설치
 
-`npm run dev` - webpack dev server 
+`npm run dev` - webpack dev server
 
 `npm run watch` - webpack watch
 
 `npm run build` - webpack build
 
-`npm run lint` - lint 
- 
+`npm run lint` - lint
+
 `npm run format` - prettier
